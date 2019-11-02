@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeRollz_ Android", "Assembly-CSharp.csproj", "{BD5C1576-4B55-B161-BB89-1656C6E26B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeRollz_ Android", "Assembly-CSharp-firstpass.csproj", "{50F9425C-D55F-087B-BD74-A65FADDE53F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeRollz_ Android", "Assembly-CSharp-Editor.csproj", "{B2288758-52BD-CE66-C513-E33D1B8D40CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5C1576-4B55-B161-BB89-1656C6E26B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5C1576-4B55-B161-BB89-1656C6E26B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5C1576-4B55-B161-BB89-1656C6E26B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5C1576-4B55-B161-BB89-1656C6E26B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F9425C-D55F-087B-BD74-A65FADDE53F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F9425C-D55F-087B-BD74-A65FADDE53F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F9425C-D55F-087B-BD74-A65FADDE53F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F9425C-D55F-087B-BD74-A65FADDE53F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2288758-52BD-CE66-C513-E33D1B8D40CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2288758-52BD-CE66-C513-E33D1B8D40CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2288758-52BD-CE66-C513-E33D1B8D40CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2288758-52BD-CE66-C513-E33D1B8D40CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
